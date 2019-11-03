@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/sistersss/PPL/issues"
   },
-  "homepage": "https://github.com/sistersss/PPL#readme"
+  "homepage": "https://github.com/sistersss/PPL#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
 }
