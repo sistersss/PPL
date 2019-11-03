@@ -1,0 +1,19 @@
+{
+  "name": "ppl",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sistersss/PPL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sistersss/PPL/issues"
+  },
+  "homepage": "https://github.com/sistersss/PPL#readme"
+}
